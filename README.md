@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Oliveira
+ #  Matheus Oliveira
 
 **`Analista de Dados`**
 
@@ -60,7 +60,7 @@ Sou uma pessoa comprometida, disciplinada e apaixonada por aprender. Meu objetiv
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-olivr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
