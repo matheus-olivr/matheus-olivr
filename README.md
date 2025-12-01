@@ -1,43 +1,37 @@
- #  Matheus Oliveira
+# 👋 Olá! Eu sou o Matheus Oliveira
 
-**`Analista de Dados`**
+🎓 **Estudante de Sistemas de Informação (4º semestre)** — Eniac  
+📊 Apaixonado por **Análise de Dados**, estudando Python, SQL e visualização de dados  
+💼 **Jovem Aprendiz no Itaú**  
+🎯 Buscando uma oportunidade de **Estágio em Análise de Dados**
 
-Me chamo Matheus Oliveira e atualmente curso Sistemas de Informação na Eniac e estou no 4º semestre, com foco em desenvolver minhas habilidades técnicas e práticas na área de tecnologia.
+---
 
-Sou uma pessoa comprometida, disciplinada e apaixonada por aprender. Meu objetivo é construir uma carreira sólida como Analista de Dados, contribuindo para projetos inovadores e impactando positivamente a vida das pessoas através da tecnologia.
+## 🚀 Tecnologias e Ferramentas
 
+- Python  
+- SQL  
+- Jupyter Notebook  
+- Visualização de dados  
+- HTML, CSS, JavaScript  
+- Pacote Office  
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 📚 Formação e Cursos
+
+- **Sistemas de Informação — Eniac** (Previsão: 2027)  
+- **Complete Data Analyst Training — Udemy**  
+- **Capacitação em Inteligência Artificial — ENIAC**
+
+---
+
+## 📫 Onde me encontrar
+
+📍 Guarulhos – SP  
+📧 Email: **mathprfs2006@gmail.com**  
+🔗 LinkedIn: [Clique aqui](https://www.linkedin.com/in/matheus-oliveira-nascimento)
+
+---
+
+Obrigado por visitar meu perfil! 🚀
